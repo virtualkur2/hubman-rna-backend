@@ -20,4 +20,4 @@ uploadFolder = app.config['UPLOAD_FOLDER']
 
 from app.api import bp as api_bp
 
-app.register_blueprint(api_bp, url_prefix = '/rna')
+app.register_blueprint(api_bp, url_prefix = '/')
