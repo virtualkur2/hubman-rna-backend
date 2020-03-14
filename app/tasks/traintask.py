@@ -1,7 +1,7 @@
 from app import celery
 from datetime import datetime
 from app.models import TrainData
-from app.utils import save_results
+from app.utils.save_results import save_results
 from inspect import getmembers, isfunction
 
 import app.scripts as scripts
