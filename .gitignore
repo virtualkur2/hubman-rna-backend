@@ -136,3 +136,5 @@ dmypy.json
 
 # uploaded files
 app/uploads/**
+!app/uploads/**/.gitkeep
+
