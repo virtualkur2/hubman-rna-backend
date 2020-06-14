@@ -138,3 +138,6 @@ dmypy.json
 /app/uploads/**
 !/app/uploads/.gitkeep
 
+# dont_push dir
+/dont_push
+/dont_push/**
