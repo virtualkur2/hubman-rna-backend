@@ -1,7 +1,7 @@
 alembic==1.4.0
 amqp==2.5.2
 billiard==3.6.3.0
-celery==4.4.1
+celery==5.2.2
 Click==7.0
 Flask==1.1.1
 Flask-Cors==3.0.8
